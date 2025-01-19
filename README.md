@@ -1,7 +1,3 @@
-Here's a detailed description of the **User Management Application** project for your resume:
-
----
-
 ### **Project: User Management Application**  
 **Description**:  
 Developed a full-stack web application to manage user information, including features like user creation, updating, deletion, and role-based access control. The application provides an intuitive interface for administrators to manage users efficiently and is built using modern web technologies.
